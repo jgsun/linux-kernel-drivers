@@ -1,0 +1,1 @@
+obj-m += c_pointer.o
